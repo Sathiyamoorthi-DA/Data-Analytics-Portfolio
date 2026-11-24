@@ -78,14 +78,14 @@ Developing professional Power BI dashboards to analyze business performance, mon
 | 04 | 📱 Mobile Sales Analytics | Retail Analytics | Brand, product and regional sales | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/04-Mobile_Sales_Analytics/) |
 | 05 | 🏦 SBI Loan Processing Analytics | Banking & Risk | Loan portfolio, credit and default analysis | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/05-SBI-Loan_Processing_Analytics/) |
 | 06 | 🛒 Blinkit Sales Analytics | Retail & E-commerce | Product sales, revenue and outlet performance | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/06-Blinkit_Sales_Analytics/) |
-| 07 | 📊 BOB Performance Analytics | Banking Performance | Banking KPIs and performance monitoring | [View Project ↗](./Power-BI-Projects/07-BOB_Performance_Analytics/) |
-| 08 | 🚚 Logistics Analytics | Supply Chain & Logistics | Delivery, logistics and operational performance | [View Project ↗](./Power-BI-Projects/08-Logistics_Analytics/) |
-| 09 | 📈 Executive Business Performance Analytics | Business Intelligence | Sales, finance, operations and executive KPIs | [View Project ↗](./Power-BI-Projects/09-Executive_Business_Performance_Analytics/) |
-| 10 | 💳 Banking Transaction Analytics | Banking & Finance | Banking transactions and customer activity | [View Project ↗](./Power-BI-Projects/10-Banking_Transaction_Analytics/) |
-| 11 | 💹 Finance Analytics | Financial Analytics | Financial performance and KPI reporting | [View Project ↗](./Power-BI-Projects/11-Finance_Analytics/) |
-| 12 | 🏬 Revivea Sales Analytics | Sales Analytics | Sales performance and business trends | [View Project ↗](./Power-BI-Projects/12-Revivea_Sales_Analytics/) |
-| 13 | 🛍️ Retail Sales & Profit Analytics | Retail Analytics | Sales, profit and product performance | [View Project ↗](./Power-BI-Projects/13_Retail%20Sales%20%26%20Profit_Analytics/) |
-| 14 | 📊 Sales Operations Analytics | Operations Analytics | Sales performance and operational KPIs | [View Project ↗](./Power-BI-Projects/14-Sales_Operations_Analytics/) |
+| 07 | 📊 BOB Performance Analytics | Banking Performance | Banking KPIs and performance monitoring | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/07-BOB_Performance_Analytics/) |
+| 08 | 🚚 Logistics Analytics | Supply Chain & Logistics | Delivery, logistics and operational performance | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/08-Logistics_Analytics/) |
+| 09 | 📈 Executive Business Performance Analytics | Business Intelligence | Sales, finance, operations and executive KPIs | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/09-Executive_Business_Performance_Analytics/) |
+| 10 | 💳 Banking Transaction Analytics | Banking & Finance | Banking transactions and customer activity | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/10-Banking_Transaction_Analytics/) |
+| 11 | 💹 Finance Analytics | Financial Analytics | Financial performance and KPI reporting | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/11-Finance_Analytics/) |
+| 12 | 🏬 Revivea Sales Analytics | Sales Analytics | Sales performance and business trends | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/12-Revivea_Sales_Analytics/) |
+| 13 | 🛍️ Retail Sales & Profit Analytics | Retail Analytics | Sales, profit and product performance | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/13_Retail%20Sales%20%26%20Profit_Analytics/) |
+| 14 | 📊 Sales Operations Analytics | Operations Analytics | Sales performance and operational KPIs | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/14-Sales_Operations_Analytics/) |
 
 **Key Technologies:** Power BI Desktop, Power Query, DAX, Data Modeling, Relationships, Interactive Visualizations.
 
