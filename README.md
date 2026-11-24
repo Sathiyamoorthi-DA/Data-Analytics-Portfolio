@@ -99,7 +99,7 @@ Developing interactive Excel dashboards and business reporting solutions using a
 
 | No. | Project Name | Business Domain | Key Analysis | Project Link |
 |:---:|:---|:---|:---|:---:|
-| 01 | 👥 Employee Performance Dashboard | HR Analytics | Employee performance, workforce KPIs | [View Project ↗](./Excel-Projects/01-Employee-Performance-Dashboard/) |
+| 01 | 👥 Employee Performance Dashboard | HR Analytics | Employee performance, workforce KPIs | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/01-Employee-Performance-Dashboard/) |
 | 02 | 💰 Personal Finance Dashboard | Financial Analytics | Income, expenses, savings and investments | [View Project ↗](./Excel-Projects/02-Personal-Finance-Dashboard/) |
 | 03 | 🎯 Personal Goal Dashboard | Financial Planning | Financial goals and target tracking | [View Project ↗](./Excel-Projects/02.1-Personal-goal-Dashboard%20-/) |
 | 04 | 🧾 Invoice & Accounts Payable | Finance & Accounting | Invoice processing and payment monitoring | [View Project ↗](./Excel-Projects/03-invoice-Accounts-Payable/) |
