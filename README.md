@@ -72,7 +72,7 @@ Developing professional Power BI dashboards to analyze business performance, mon
 
 | No. | Project Name | Business Domain | Key Analysis | Project Link |
 |:---:|:---|:---|:---|:---:|
-| 01 | 🏦 BOB Analytics | Banking & Finance | Banking performance, financial KPIs | [View Project ↗](Sathiyamoorthi-DA/PowerBI-Projects/01-BOB_Analytics) |
+| 01 | 🏦 BOB Analytics | Banking & Finance | Banking performance, financial KPIs | [View Project ↗](./01-BOB_Analytics/) |
 | 02 | 💰 Nexora Finance Analytics | Financial Analytics | Revenue, expenses, profitability | [View Project ↗](./Power-BI-Projects/02-Nexora_Finance_Analytics/) |
 | 03 | 🍔 Zomata Sales Analytics | Sales Analytics | Restaurant sales, revenue, performance | [View Project ↗](./Power-BI-Projects/03-Zomata_Sales_Analytics/) |
 | 04 | 📱 Mobile Sales Analytics | Retail Analytics | Brand, product and regional sales | [View Project ↗](./Power-BI-Projects/04-Mobile_Sales_Analytics/) |
