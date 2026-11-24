@@ -100,13 +100,13 @@ Developing interactive Excel dashboards and business reporting solutions using a
 | No. | Project Name | Business Domain | Key Analysis | Project Link |
 |:---:|:---|:---|:---|:---:|
 | 01 | 👥 Employee Performance Dashboard | HR Analytics | Employee performance, workforce KPIs | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/01-Employee-Performance-Dashboard/) |
-| 02 | 💰 Personal Finance Dashboard | Financial Analytics | Income, expenses, savings and investments | [View Project ↗](./Excel-Projects/02-Personal-Finance-Dashboard/) |
-| 03 | 🎯 Personal Goal Dashboard | Financial Planning | Financial goals and target tracking | [View Project ↗](./Excel-Projects/02.1-Personal-goal-Dashboard%20-/) |
-| 04 | 🧾 Invoice & Accounts Payable | Finance & Accounting | Invoice processing and payment monitoring | [View Project ↗](./Excel-Projects/03-invoice-Accounts-Payable/) |
-| 05 | 📦 Inventory Analytics Dashboard | Supply Chain | Stock, inventory valuation and suppliers | [View Project ↗](./Excel-Projects/04-Inventory-Analytics/) |
-| 06 | 🛡️ Insurance Claim Settlement Analytics | Insurance Analytics | Premium revenue, policies and claims | [View Project ↗](./Excel-Projects/05-Insurance-Claim-Settlement-Analytics/) |
-| 07 | 🍽️ Restaurant Analytics Dashboard | Hospitality Analytics | Restaurant sales, customers and profitability | [View Project ↗](./Excel-Projects/06-Restaurants-Analytics/) |
-| 08 | 🛒 E-commerce Sales Dashboard | Retail & E-commerce | Orders, revenue, profit and customer analysis | [View Project ↗](./Excel-Projects/07-E-Commerce-Sales-Analytics/) |
+| 02 | 💰 Personal Finance Dashboard | Financial Analytics | Income, expenses, savings and investments | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/02-Personal-Finance-Dashboard/) |
+| 03 | 🎯 Personal Goal Dashboard | Financial Planning | Financial goals and target tracking | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/02.1-Personal-goal-Dashboard%20-/) |
+| 04 | 🧾 Invoice & Accounts Payable | Finance & Accounting | Invoice processing and payment monitoring | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/03-invoice-Accounts-Payable/) |
+| 05 | 📦 Inventory Analytics Dashboard | Supply Chain | Stock, inventory valuation and suppliers | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/04-Inventory-Analytics/) |
+| 06 | 🛡️ Insurance Claim Settlement Analytics | Insurance Analytics | Premium revenue, policies and claims | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/05-Insurance-Claim-Settlement-Analytics/) |
+| 07 | 🍽️ Restaurant Analytics Dashboard | Hospitality Analytics | Restaurant sales, customers and profitability | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/06-Restaurants-Analytics/) |
+| 08 | 🛒 E-commerce Sales Dashboard | Retail & E-commerce | Orders, revenue, profit and customer analysis | [View Project ↗](https://github.com/Sathiyamoorthi-DA/Excel-Projects/tree/main/07-E-Commerce-Sales-Analytics/) |
 
 **Key Technologies:** Microsoft Excel, Advanced Formulas, XLOOKUP, VLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, Pivot Tables, Pivot Charts, Slicers, Conditional Formatting.
 
