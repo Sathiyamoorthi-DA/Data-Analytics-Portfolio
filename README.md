@@ -74,10 +74,10 @@ Developing professional Power BI dashboards to analyze business performance, mon
 |:---:|:---|:---|:---|:---:|
 | 01 | 🏦 BOB Analytics | Banking & Finance | Banking performance, financial KPIs | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/01-BOB_Analytics) |
 | 02 | 💰 Nexora Finance Analytics | Financial Analytics | Revenue, expenses, profitability | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/02-Nexora_Finance_Analytics/) |
-| 03 | 🍔 Zomata Sales Analytics | Sales Analytics | Restaurant sales, revenue, performance | [View Project ↗](./Power-BI-Projects/03-Zomata_Sales_Analytics/) |
-| 04 | 📱 Mobile Sales Analytics | Retail Analytics | Brand, product and regional sales | [View Project ↗](./Power-BI-Projects/04-Mobile_Sales_Analytics/) |
-| 05 | 🏦 SBI Loan Processing Analytics | Banking & Risk | Loan portfolio, credit and default analysis | [View Project ↗](./Power-BI-Projects/05-SBI-Loan_Processing_Analytics/) |
-| 06 | 🛒 Blinkit Sales Analytics | Retail & E-commerce | Product sales, revenue and outlet performance | [View Project ↗](./Power-BI-Projects/06-Blinkit_Sales_Analytics/) |
+| 03 | 🍔 Zomata Sales Analytics | Sales Analytics | Restaurant sales, revenue, performance | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/03-Zomata_Sales_Analytics/) |
+| 04 | 📱 Mobile Sales Analytics | Retail Analytics | Brand, product and regional sales | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/04-Mobile_Sales_Analytics/) |
+| 05 | 🏦 SBI Loan Processing Analytics | Banking & Risk | Loan portfolio, credit and default analysis | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/05-SBI-Loan_Processing_Analytics/) |
+| 06 | 🛒 Blinkit Sales Analytics | Retail & E-commerce | Product sales, revenue and outlet performance | [View Project ↗](https://github.com/Sathiyamoorthi-DA/PowerBI-Projects/tree/main/06-Blinkit_Sales_Analytics/) |
 | 07 | 📊 BOB Performance Analytics | Banking Performance | Banking KPIs and performance monitoring | [View Project ↗](./Power-BI-Projects/07-BOB_Performance_Analytics/) |
 | 08 | 🚚 Logistics Analytics | Supply Chain & Logistics | Delivery, logistics and operational performance | [View Project ↗](./Power-BI-Projects/08-Logistics_Analytics/) |
 | 09 | 📈 Executive Business Performance Analytics | Business Intelligence | Sales, finance, operations and executive KPIs | [View Project ↗](./Power-BI-Projects/09-Executive_Business_Performance_Analytics/) |
